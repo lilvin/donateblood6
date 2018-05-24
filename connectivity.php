@@ -1,9 +1,9 @@
 <?php
 //connecting to database
-$servername="localhost";
-$username="root";
-$password="";
-$dbname="donate blood";
+$servername="mysql6.gear.host";
+$username="donateblood";
+$password="@lilian94";
+$dbname="donateblood";
 
 
 $con=new mysqli($servername,$username,$password,$dbname) or die("failed to connect to server");
