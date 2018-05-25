@@ -1,5 +1,5 @@
 <?php 
-$con=mysqli_connect("localhost","id1404203_lilian","lilian94","id1404203_vibe");
+$con=mysqli_connect("mysql6.gear.host","id1404203_lilian","lilian94","id1404203_vibe");
 
 
 $name=$_POST["name"];
