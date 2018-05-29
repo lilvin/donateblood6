@@ -3,7 +3,7 @@
 //connecting to database
 $servername="localhost";
 $username="root";
-$password="";
+$password="@lilian94";
 $dbname="online fast food";
 
 $con=new mysqli($servername,$username,$password,$dbname) or die("failed to connect to server");
